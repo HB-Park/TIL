@@ -17,3 +17,7 @@
 4. 문제
 - 답: X
 - 이유: 3번째는 commits이 아닌 repository 이고 이 공간에 commits이 들어간다.
+
+1. 문제
+- 답: X
+- 이유: commit id는 고유 아이디이기 때문에 중복되지 않는다.
